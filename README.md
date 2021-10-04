@@ -1,5 +1,7 @@
 This repo is from: <a href="https://github.com/ageron/handson-ml2">here.</a>
 
+I am using the jupyternotebooks as I work through the book to get more hands-on work with machine learning.
+
 
 Machine Learning Notebooks
 ==========================
